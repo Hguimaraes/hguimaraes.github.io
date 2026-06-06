@@ -60,11 +60,11 @@ I am broadly interested in developing ML models that learn useful abstractions f
 
 Some of my current research interests include:
 
-* **Structured and Tabular Foundation Models:** developing models for heterogeneous, tabular, and relational data, with applications across scientific, financial, behavioral, and enterprise-scale prediction problems.
+- **Structured and Tabular Foundation Models:** developing models for heterogeneous, tabular, and relational data, with applications across scientific, financial, behavioral, and enterprise-scale prediction problems.
 
-* **Multimodal Perception and Representation Learning:** learning robust and transferable representations from high-dimensional signals (e.g., speech and vision) to support perception and interaction.
+- **Multimodal Perception and Representation Learning:** learning robust and transferable representations from high-dimensional signals (e.g., speech and vision) to support perception and interaction.
 
-* **Robustness and Real-World Deployment:** developing models that represent the world, generalize under distribution shifts, and remain reliable under resource constraints, adversarial conditions, and deployment requirements.
+- **Robustness and Real-World Deployment:** developing models that represent the world, generalize under distribution shifts, and remain reliable under resource constraints, adversarial conditions, and deployment requirements.
 
 During my PhD, I worked on audio intelligence and machine perception, focusing on how foundation models can be adapted to real-world speech and bioacoustic applications. My work studied efficiency and robustness to distribution shifts and adversarial attacks. I was also fortunate to intern at [Adobe Research](https://research.adobe.com/) and [Meta](https://ai.meta.com/), where I worked on generative speech enhancement for full-bandwidth studio-quality audio and small-footprint speech enhancement methods for smart glasses, respectively.
 
