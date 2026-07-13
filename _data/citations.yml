@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-07-13'
 papers:
   Hap4Sh8AAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -66,7 +66,7 @@ papers:
     title: Improving the Robustness of DistilHuBERT to Unseen Noisy Conditions via Data Augmentation, Curriculum Learning, and Multi-Task Enhancement
     year: '2022'
   Hap4Sh8AAAAJ:YOwf2qJgpHMC:
-    citations: 18
+    citations: 19
     title: 'MSPB: a longitudinal multi-sensor dataset with phenotypic trait measurements from honey bees'
     year: '2024'
   Hap4Sh8AAAAJ:ZeXyd9-uunAC:
@@ -94,7 +94,7 @@ papers:
     title: On self-supervised representations for 3D speech enhancement
     year: '2022'
   Hap4Sh8AAAAJ:hFOr9nPyWt4C:
-    citations: 70
+    citations: 71
     title: 'Dynamic-SUPERB Phase-2: A Collaboratively Expanding Benchmark for Measuring the Capabilities of Spoken Language Models with 180 Tasks'
     year: '2024'
   Hap4Sh8AAAAJ:j3f4tGmQtD8C:
